@@ -7,4 +7,4 @@ Afin d’effectuer des recommandations pertinentes en fonction d’un film chois
 nous avons regroupés toutes les colonnes contenant des mots clés importants en une (description, acteurs, réalisateur, etc..), 
 que nous avons ensuite vectorisé pour ensuite calculer la « cosine similarity » entre chaque films. 
 Notre système de recommandation retourne les films ayant les trois meilleurs scores pour un film donnée.
-Nous avons ensuite développé une web-app permettant de naviguer dans notre base de données, et avoir accès à notre système de recommandation.
+Nous avons ensuite développé une web-app avec Dash, qui permet de naviguer dans notre base de données et avoir accès à notre système de recommandation.
